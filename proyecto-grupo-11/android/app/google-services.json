@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988540075360",
+    "project_id": "storelocal-f3311",
+    "storage_bucket": "storelocal-f3311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988540075360:android:9e0dbca59f9d75a9163205",
+        "android_client_info": {
+          "package_name": "com.unbosque.proyecto_grupo6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988540075360-acilb0jf84qhi1srfo10905d4bq6jkn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZ6FMfCoaAi7pcpRW5lywJh7aKP42rfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988540075360-acilb0jf84qhi1srfo10905d4bq6jkn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
